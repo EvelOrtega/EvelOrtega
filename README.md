@@ -5,16 +5,28 @@
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelOrtega&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Botstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-plain.svg">
-    <img align="center" alt="angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-plain.svg">
+
+<h2> Hard Skills</h2>
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg">
+<img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-plain.svg">
+<img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg">
   
-   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">
+  
+ <br> 
+ <h2>Studying</h2> 
+<img align="center" alt="angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-plain.svg">
+<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
+ <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">
 
 
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  
+  
+  
+  
 
   <!--<img align="right" alt="evel-pic" height="150" style="border-radius:50px;" src="https://instagram.fpoo3-1.fna.fbcdn.net/v/t51.2885-15/70769580_497028114480704_6042732831634339425_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fpoo3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=v19A2q5nHSEAX9zbcfi&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MjE0MzE2MDM4MTAyMjczMzc4Nw%3D%3D.2-ccb7-4&oh=00_AT-MDhz42q3QOdMvdKmDIvpb2RFP4z14dJvS9_H7j3WGTg&oe=6280091F&_nc_sid=30a2ef"> 
 </div>-->
