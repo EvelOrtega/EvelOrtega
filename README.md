@@ -1,4 +1,4 @@
-## Olá, eu sou Evel Ortega, Dev Fullstack em Treinamento!
+## Olá, eu sou Evel Ortega, Dev Fullstack.
 <div align="left" style="display: inline_block">
   <a href="https://github.com/EvelOrtega">
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=EvelOrtega&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
